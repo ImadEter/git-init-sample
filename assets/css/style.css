@@ -99,6 +99,15 @@ section {
     background-size: cover;
     background-position: center;
     position: relative;
+    font-size:20px;
+    margin: 20px;
+}
+
+.hero-secondary{
+  
+  background-color: black;
+ 
+  color: red;
 }
 
 .hero-form{
@@ -224,7 +233,7 @@ section {
 
   .trainer img {
     width: 35%;
-    float: left;
+    float: left
   }
   
   .trainer-bio {
